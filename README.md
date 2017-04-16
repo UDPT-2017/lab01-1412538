@@ -1,4 +1,4 @@
-# BT-UDPT-1 - *Name of your app*
+# BT-UDPT-1 - Lab01-1412538
 
 **Name of your app** là một bài tập 1 tại môn UDPT.
 
@@ -15,7 +15,7 @@ Sinh viên check vào các mục bên dưới và ghi mã sinh viên đã làm v
 Yêu cầu **GIT**
 * [ ] Có sử dụng GIT.
 * [ ] Sử dụng GIT theo Centralized Workflow.
-* [ * ] Sử dụng GIT theo Feature Branch Workflow.
+* [ ] Sử dụng GIT theo Feature Branch Workflow.
 * [ ] Sử dụng GIT theo Gitflow Workflow.
 
 Yêu cầu **bắt buộc**
