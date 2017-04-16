@@ -1,0 +1,37 @@
+body{
+  padding-top: 70px;
+  padding-bottom: : 70px;
+}
+#fire{
+  color: #FA5F2B;
+}
+
+.left-menu-div{
+  float: right;
+}
+
+@media screen and (max-width: 768px) {
+  .row-offcanvas {
+    position: relative;
+    -webkit-transition: all 0.4s ease-out;
+    -moz-transition: all 0.4s ease-out;
+    transition: all 0.4s ease-out;
+  }
+
+  .row-offcanvas-left
+  #sidebarLeft {
+    left: -50%;
+  }
+
+  .row-offcanvas-left.active {
+    left: 50%;
+  }
+
+  .sidebar-offcanvas {
+    position: absolute;
+    top: 0;
+    width: 50%;
+    margin-left: 10px;
+  }
+  #offcanvasleft{margin-top:10px;}
+}
